@@ -91,15 +91,15 @@ GitHub
 Project Structure
 
 Seasonal-Agriculture-Performance-Analysis/
-│
+----
 README.md
-|
+->
 Dataset/
-|
+->
 Analysis/
-|
+->
 Results/
-|
+->
 Presentation/
 
 How to Run
