@@ -92,27 +92,11 @@ Project Structure
 
 Seasonal-Agriculture-Performance-Analysis/
 │
-├── data/
-│   └── seasonal_agriculture_performance_dataset.csv
-│
-├── analysis/
-│   └── Seasonal_Agriculture_Performance_Analysis_Final_Executed.ipynb
-│
-├── visuals/
-│   ├── seasonal_performance.png
-│   ├── crop_profit.png
-│   ├── crop_season_heatmap.png
-│   ├── irrigation.png
-│   ├── rainfall_yield.png
-│   ├── corr_heatmap.png
-│   ├── state_profit.png
-│   ├── profit_distribution.png
-│   └── outliers.png
-│
-├── presentation/
-│   └── Seasonal_Agriculture_Performance_Analysis_Major_Project.pptx
-│
-└── README.md
+├── README.md
+├── Dataset/
+├── Analysis/
+├── Results/
+└── Presentation/
 
 How to Run
 
